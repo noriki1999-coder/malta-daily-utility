@@ -1,17 +1,10 @@
-## Today – High Impact
-- **Valletta – Triq San Pawl & Triq Melita** (11:00 a.m. – midnight) — road closure; public transport affected.
-- **Paola – Kordin Industrial Estate** (09:00 a.m. – 6:00 p.m.) — road closures; possible public transport impact.
-- **Munxar (Gozo) – Town Roads** (2:45 p.m. – 6:45 p.m.) — local road closures; public transport may be affected.
-- **Parking & Tow Zones – Ħamrun / Santa Venera** (06:00 a.m. – 3:00 p.m.) — parking prohibited; traffic deviations due to carnival.
-
-### Public Transport Detours (Today)
-- Bus routes **221, 222, X1A, 223, 225, 250, 41, 42, 49, N11** — detours about 09:30 a.m. to ~11:30 a.m.
-- Routes **VFS, 133** — detours today due to construction; varies by route and time.
----
-
-## Disclaimer
-This website is an independent information summary based on publicly available notices and updates.  
-It is **not affiliated with Transport Malta, Malta Police, or any local council**.  
-Information may be incomplete or change at short notice. Always follow on-site signage and official instructions.
-
-
+## This Week – Upcoming
+- **Valletta – Extended Street Closures (9–10 Feb):** road closures in central Valletta with public transport affected.
+- **Fgura – Triq Hompesch (15 Feb, 07:00–13:00):** closure with public transport impact.
+- **Kirkop (16–17 Feb, 07:00–21:00):** proposed closures (no public transport impact).
+- **Safi – Triq Carmelo Caruana (10 Feb, 07:00–10:00):** short closure, possible bus impacts.
+- **Gudja (18 Feb, 17:15–20:00):** local road closures with public transport affected.
+- **Malta Marathon (22 Feb):** traffic diversions expected across multiple roads.
+  
+### Public Transport Detours
+- Ongoing detours on several routes (e.g., Routes 300, 120, 121, 94, 322, 250, 41, 42, 49, X300, N11, Airport Direct 1).
